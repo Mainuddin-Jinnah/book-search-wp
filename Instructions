@@ -1,0 +1,5 @@
+First create one folder inside plugin folder.Name the folder by booksearching.
+Then go to dashboard plugin installation and activate your plugin.
+AFter activating you can see three option 'Add Book' , 'Search Book' and 'Use Shortcode'
+You can easily manually add book details and it will be stored in database table.
+you can use shortcode in wordpress page or post.
